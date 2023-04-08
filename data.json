@@ -2,85 +2,29 @@
     {
         "id": 1,
        "nombre": "Batman",
-        "precio": 4999,
-       "img": "https://static1.funidelia.com/7787-f6_list/disfraz-de-batman-the-brave-and-the-bold-musculoso-nino.jpg",
+        "precio": 3999,
+       "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/002/141/353/products/f1_35182-9f8c5053cfb9953cf416585525834829-640-0.jpg",
         "cantidad": 1
     },
     {
         "id": 2,
-        "nombre": "Darth Vader",
-        "precio": 8999,
-        "img": "https://static1.funidelia.com/7676-f6_list/disfraz-de-darth-vader-premium-para-nino.jpg",
+        "nombre": "Superman",
+        "precio": 2999,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_665611-MLA42014609067_052020-O.webp",
         "cantidad": 1
     },
     {
         "id": 3,
-        "nombre": "IronMan",
-        "precio": 5999,
-        "img": "https://static1.funidelia.com/518833-f6_list/disfraz-de-iron-man-premium-para-nino-los-vengadores-endgame.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 4,
-        "nombre": "Capitan America",
-        "precio": 5999,
-        "img": "https://static1.funidelia.com/467842-f6_list/disfraz-de-capitan-america-para-nino-los-vengadores.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 5,
-        "nombre": "Spiderman",
-        "precio": 5499,
-        "img": "https://static1.funidelia.com/524061-f6_list/disfraz-de-spiderman-para-nino.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 6,
-        "nombre": "Thor",
-        "precio": 5999,
-        "img": "https://static1.funidelia.com/33030-f4_large/disfraz-de-thor-vengadores-unidos-deluxe-para-nino.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 7,
         "nombre": "Gatubela",
-        "precio": 5499,
+        "precio": 2499,
         "img": "https://static1.funidelia.com/10901-f6_list/disfraz-de-catwoman-para-nina.jpg",
         "cantidad": 1
     },
     {
-        "id": 8,
-        "nombre": "Anna Frozen",
+        "id": 4,
+        "nombre": "IronMan",
         "precio": 5999,
-        "img": "https://static1.funidelia.com/467864-f6_list/disfraz-de-anna-dorado-para-nina-frozen-2.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 9,
-        "nombre": "Elsa Frozen",
-        "precio": 7499,
-        "img": "https://static1.funidelia.com/55663-f6_list/disfraz-de-elsa-para-nina.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 10,
-        "nombre": "Rapunzel",
-        "precio": 7499,
-        "img": "https://static1.funidelia.com/107864-f6_list/disfraz-de-rapunzel-deluxe-para-nina.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 11,
-        "nombre": "Bella",
-        "precio": 8499,
-        "img": "https://static1.funidelia.com/56246-f6_list/disfraz-de-bella-la-bella-y-la-bestia-pelicula-para-nina.jpg",
-        "cantidad": 1
-    },
-    {
-        "id": 12,
-        "nombre": "Cenicienta",
-        "precio": 6699,
-        "img": "https://static1.funidelia.com/443329-f6_list/disfraz-de-cenicienta-deluxe-para-nina-disney.jpg",
+        "img": "https://static1.funidelia.com/28631-f6_big2/disfraz-de-iron-man-vengadores-unidos-para-bebe.jpg",
         "cantidad": 1
     }
 ]
